@@ -1,4 +1,4 @@
-# Travel Memory
+# TravelMemory: MERN Stack Deployment on AWS EC2 (Exhaustive Implementation Guide)
 
 `.env` file to work with the backend after creating a database in mongodb: 
 
